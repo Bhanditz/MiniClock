@@ -8,4 +8,4 @@ A userscript engine, like Tampermonkey, is required. You can download the one yo
 -   Safari: [Tampermonkey](http://tampermonkey.net/?browser=safari)
 -   Microsoft Edge: [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 -   Opera: [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) or [Violentmonkey](https://addons.opera.com/extensions/details/violent-monkey/)
-> [Click to install MiniClock](https://raw.githubusercontent.com/viktorsml/MiniClock/master/MiniClock.js)
+> [Click to install MiniClock](https://greasyfork.org/en/scripts/375196-miniclock)
